@@ -105,9 +105,10 @@ font-weight: 400;
         padding: 0;
     }
 
+    
     .white{
-      
-        padding: 20px;
+      height: 60%;
+        padding-inline: 20px;
     
         /* padding-inline: 30px; */
     }
